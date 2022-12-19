@@ -1,0 +1,15 @@
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.csproj.AssemblyReference.cache
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.AssemblyInfoInputs.cache
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.AssemblyInfo.cs
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.csproj.CoreCompileInputs.cache
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\bin\Debug\net6.0\final midterm proejct.exe
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\bin\Debug\net6.0\final midterm proejct.deps.json
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\bin\Debug\net6.0\final midterm proejct.runtimeconfig.json
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\bin\Debug\net6.0\final midterm proejct.dll
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\bin\Debug\net6.0\final midterm proejct.pdb
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.dll
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\refint\final midterm proejct.dll
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.pdb
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\final midterm proejct.genruntimeconfig.cache
+C:\Users\25schreiber2114\source\repos\final midterm proejct\final midterm proejct\obj\Debug\net6.0\ref\final midterm proejct.dll
